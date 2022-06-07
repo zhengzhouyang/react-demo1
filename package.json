@@ -1,7 +1,7 @@
 {
   "name": "react_movies",
   "version": "0.1.0",
-  "homepage": "https://github.com/zhengzhouyang/react-demo1",
+  "homepage": "https://zhengzhouyang.github.io/react-demo1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
